@@ -9,7 +9,8 @@ import com.marquiseanges.weatherapp.BuildConfig
 
 object Constants {
 
-    const val API_KEY: String = BuildConfig.OPEN_WEATHER_API_KEY
+    const val API_KEY: String = "afa3a0081d85eba026340b6520d37394"          // BuildConfig.OPEN_WEATHER_API_KEY
+    const val APP_ID: String = "afa3a0081d85eba026340b6520d37394"
     const val BASE_URL: String = "https://api.openweathermap.org/data/"
     const val METRIC_UNIT: String = "metric"
     /**

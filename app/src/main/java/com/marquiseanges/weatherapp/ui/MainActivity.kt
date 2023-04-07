@@ -1,4 +1,4 @@
-package com.marquiseanges.weatherapp
+package com.marquiseanges.weatherapp.ui
 
 import android.Manifest
 import android.annotation.SuppressLint
